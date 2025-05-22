@@ -19,14 +19,14 @@
 
 ## ✅ 화요일
 - [롤케이크 자르기 - 프로그래머스 132265](https://school.programmers.co.kr/learn/courses/30/lessons/132265)
-- [택배상자 - 프로그래머스 131704](https://school.programmers.co.kr/learn/courses/30/lessons/131704)
+- [최댓값 테트로미노 - 코드트리](https://www.codetree.ai/ko/frequent-problems/problems/max-sum-of-tetris-block/description)
 
 ## ✅ 목요일
 - [마법의 엘리베이터 - 프로그래머스 148653](https://school.programmers.co.kr/learn/courses/30/lessons/148653)
 - [2048 게임 - 코드트리](https://www.codetree.ai/ko/frequent-problems/problems/2048-game/description)
 
 ## ✅ 월요일
-- [최댓값 테트로미노 - 코드트리](https://www.codetree.ai/ko/frequent-problems/problems/max-sum-of-tetris-block/description)
+- [택배상자 - 프로그래머스 131704](https://school.programmers.co.kr/learn/courses/30/lessons/131704)
 - [외주 수익 최대화 - 코드트리](https://www.codetree.ai/ko/frequent-problems/problems/max-of-outsourcing-profit/description)
 
 </details>
