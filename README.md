@@ -9,8 +9,24 @@
 - [특정 거리의 도시 찾기 - 백준 18352](https://www.acmicpc.net/problem/18352)
 - [2개의 사탕 - 코드트리](https://www.codetree.ai/ko/frequent-problems/problems/two-candies/description)
 
-## ✅ 금요일
+## ✅ 월요일
 - [정육면체 굴리기 - 코드트리](https://www.codetree.ai/ko/frequent-problems/problems/cube-rounding/description)
 - [회의실 배정 - 백준 1931](https://www.acmicpc.net/problem/1931)
+
+</details>
+<details>
+<summary>📅 알고리즘 스터디 2주차 계획</summary>
+
+## ✅ 화요일
+- [롤케이크 자르기 - 프로그래머스 132265](https://school.programmers.co.kr/learn/courses/30/lessons/132265)
+- [택배상자 - 프로그래머스 131704](https://school.programmers.co.kr/learn/courses/30/lessons/131704)
+
+## ✅ 목요일
+- [마법의 엘리베이터 - 프로그래머스 148653](https://school.programmers.co.kr/learn/courses/30/lessons/148653)
+- [2048 게임 - 코드트리](https://www.codetree.ai/ko/frequent-problems/problems/2048-game/description)
+
+## ✅ 월요일
+- [최댓값 테트로미노 - 코드트리](https://www.codetree.ai/ko/frequent-problems/problems/max-sum-of-tetris-block/description)
+- [외주 수익 최대화 - 코드트리](https://www.codetree.ai/ko/frequent-problems/problems/max-of-outsourcing-profit/description)
 
 </details>
