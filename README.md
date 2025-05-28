@@ -28,5 +28,6 @@
 ## ✅ 월요일
 - [택배상자 - 프로그래머스 131704](https://school.programmers.co.kr/learn/courses/30/lessons/131704)
 - [외주 수익 최대화 - 코드트리](https://www.codetree.ai/ko/frequent-problems/problems/max-of-outsourcing-profit/description)
-
+- [자율주행 자동차 - 코드트리](https://www.codetree.ai/ko/frequent-problems/problems/autonomous-driving/description)
+  
 </details>
